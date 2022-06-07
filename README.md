@@ -1,4 +1,4 @@
-#https://jeanlopis.github.io/site-iphone/#
+https://jeanlopis.github.io/site-iphone/
 
 Site desenvolvido na aula de introdução da Tecnologia Web
 1º Período - Sitema de Informação - Unirios
